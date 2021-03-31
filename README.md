@@ -12,6 +12,6 @@ NIM : 0110220185
 
 ## GAMBAR
 
-![picture](gambar/1.PNG)
+![picture](gambarr/1.PNG)
 
-![picture](gambar/2.PNG)
+![picture](gambarr/2.PNG)
