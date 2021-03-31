@@ -1,4 +1,4 @@
-# PRAKTIKUM 2 WEB 2
+# PRAKTIKUM 1 WEB 2
 
 STT NURUL FIKRI
 
@@ -12,6 +12,6 @@ NIM : 0110220185
 
 ## GAMBAR
 
-![picture](gambarr/1.PNG)
+![picture](gambar/1.PNG)
 
-![picture](gambarr/2.PNG)
+![picture](gambar/2.PNG)
