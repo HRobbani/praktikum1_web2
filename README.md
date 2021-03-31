@@ -10,4 +10,8 @@ Kelas : TI 08
 NIM : 0110220185
 ```
 
-## 
+## GAMBAR
+
+![picture](gambar/1.PNG)
+
+![picture](gambar/2.PNG)
